@@ -1,5 +1,6 @@
 = repository of logos medias
 
+[cols="^.^,^.^"]
 |===
 | name | display
 
