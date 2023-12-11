@@ -10,6 +10,9 @@
 | podman 
 | image:podman.png[width=30%]
 
+| podman desktop
+| image:podman-desktop.svg[width=30%]
+
 | visual studio code
 | image:vs-code.svg[width=30%]
 |===
