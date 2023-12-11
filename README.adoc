@@ -1,18 +1,23 @@
 = repository of logos medias
 
-[cols="^.^,^.^"]
+[cols="^.^,^.^,^.^"]
 |===
-| name | display
+| name | display | source
 
 | docker 
 | image:docker.png[width=30%]
+| 
 
 | podman 
 | image:podman.png[width=30%]
+|
 
 | podman desktop
 | image:podman-desktop.svg[width=30%]
+|
 
 | visual studio code
-| image:vs-code.svg[width=30%]
+| image:vscode.svg[width=30%]
+| https://code.visualstudio.com/assets/branding/visual-studio-code-icons.zip
+ 
 |===
