@@ -4,6 +4,9 @@
 |===
 | name | display
 
+| docker 
+| image:docker.png[width=30%]
+
 | podman 
 | image:podman.png[width=30%]
 |===
